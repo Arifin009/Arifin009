@@ -3,7 +3,7 @@
 <h3 align="center">A software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arifin009&label=Profile%20views&color=0e75b6&style=flat" alt="arifin009" /> </p>
+
 
 - 🌱 I’m currently learning **Flutter**
 
