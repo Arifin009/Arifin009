@@ -1,4 +1,4 @@
-![logo](https://github.com/Arifin009/Arifin009/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Arifin zaman</h1>
 <h3 align="center">A software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success.</h3>
 
