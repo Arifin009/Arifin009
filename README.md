@@ -1,9 +1,12 @@
 ### Hi 👋, I'm Arifin Zaman
 **CEO & Co-Founder of [Nirman IT](https://your-company-link)**
 
-I lead Nirman IT, a technology company that designs and delivers mobile, web, and embedded solutions for businesses. As a Flutter expert with a strong background in Android, Firebase, PHP, Next.js, node.js, and MySQL, I focus on building secure, scalable, and user-friendly products, from concept to launch.
+I lead Nirman IT, a technology company that designs and delivers mobile, web, and embedded solutions for businesses. As a Flutter expert and full-stack developer, I build secure, scalable, and user-friendly products, from mobile apps to web platforms and backend APIs.
 
-- 🚀 Building cross-platform apps with Flutter & Dart
-- 🛠️ Tech stack: Android, Java, Firebase, PHP, MySQL, MongoDB, Python, Arduino
+- 🚀 Cross-platform mobile apps with Flutter & Dart, plus native Android
+- 🌐 Web apps and admin panels with Next.js
+- ⚙️ Backend APIs and real-time services with Node.js
+- 🗄️ Databases: PostgreSQL, MySQL, MongoDB, Firebase, SQLite
+- 🛠️ Also: Java, PHP, Python, Arduino, Git, Figma
 - 🤝 Open to partnerships and collaborations
 - 📫 Reach me at: arifinzaman1010@gmail.com
