@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Arifin zaman</h1>
-<h3 align="center">A software engineer with a passion for developing innovative programs that expedite the efficiency and effectiveness of organizational success.</h3>
+<h3 align="center">CEO and co-Founder of Nirman IT </h3>
 
 
 
