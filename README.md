@@ -7,6 +7,6 @@ I lead Nirman IT, a technology company that designs and delivers mobile, web, an
 - 🌐 Web apps and admin panels with Next.js
 - ⚙️ Backend APIs and real-time services with Node.js
 - 🗄️ Databases: PostgreSQL, MySQL, MongoDB, Firebase, SQLite
-- 🛠️ Also: Java, PHP, Python, Arduino, Git, Figma
+- 🛠️ Also: Java, PHP, Python, Node.js, Arduino, Git, Figma
 - 🤝 Open to partnerships and collaborations
 - 📫 Reach me at: arifinzaman1010@gmail.com
